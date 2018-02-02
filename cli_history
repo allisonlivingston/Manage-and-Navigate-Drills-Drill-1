@@ -1,0 +1,12 @@
+ 1013  touch cli.md
+ 1014  atom cli.md .
+ 1015  cat cli.md
+ 1016  mkdir notes
+ 1017  cd notes
+ 1018  mv ../cli.md cli.md
+ 1019  cp cli.md cli-2.md
+ 1020  ls
+ 1021  rm cli.md
+ 1022  mv cli-2.md cli.md
+ 1023  ..
+ 1024  rm -rf notes
